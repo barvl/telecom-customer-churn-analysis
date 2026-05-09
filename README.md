@@ -72,7 +72,7 @@ telecom-churn-analysis/
 - Segmentación interactiva por tipo de actividad
 - Evolución temporal del abandono
 
-![Dashboard](../images/dashboard_churn.png)
+![Dashboard](images/dashboard_churn.png)
 ---
 
 ## ⚙️ Instalación y Requisitos
